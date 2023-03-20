@@ -18,7 +18,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-Deployed URL: 
+Deployed URL: https://batwood99.github.io/Code-Quiz/
 
 Screenshot of application:
 
+![screenshot](Screenshot.png)
